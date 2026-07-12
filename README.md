@@ -16,5 +16,6 @@ A modern responsive luxury landing page built using HTML and CSS.
 - HTML5
 - CSS3
 - Flexbox
+- Grid
 - Media Queries
 - CSS Animations
